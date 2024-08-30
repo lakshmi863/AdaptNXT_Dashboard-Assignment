@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with (https://adaptnxtdashboardass.netlify.app)
+please open this web site(https://adaptnxtdashboardass.netlify.app)
 
 ## Available Scripts
 
